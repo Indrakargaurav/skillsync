@@ -1,0 +1,201 @@
+student_id,name,age,gender,caste_category,pwd_flag,family_income,state,district,university,branch,cgpa,skills,internships_count,projects_count,certifications,City
+1,Vivaan Singh,24,Female,General,N,12958,Delhi,Kochi,NIT Warangal,EEE,6.64,"Django, React, CSS, Python, Machine Learning",2,5,Oracle SQL,Non-Metro City
+2,Deepak Deshmukh,18,Male,General,Y,17925,Telangana,Chennai,Christ University,IT,9.5,"Data Analysis, Machine Learning, React",2,3,None,Metropolitan City
+3,Vamsi Naidu,23,Other,OBC,N,65880,Andhra Pradesh,Mumbai,Symbiosis Pune,MECH,8.26,"React, Data Analysis, JavaScript, Python",0,5,RedHat,Metropolitan City
+4,Harsh Sharma,25,Other,General,N,51406,Kerala,Kochi,Symbiosis Pune,IT,9.37,"Django, CSS, Python, C++",2,2,AWS Certified,Non-Metro City
+5,Rohan Reddy,24,Male,SC,N,22131,Bihar,Nagpur,IIT Madras,IT,6.45,"Django, C++, Flask",3,2,AWS Certified,Non-Metro City
+6,Suresh Shetty,22,Other,OBC,Y,36711,West Bengal,Jaipur,NIT Trichy,CIVIL,9.94,"C++, React, DevOps, Machine Learning",0,5,RedHat,Non-Metro City
+7,Manish Jain,20,Female,General,Y,44109,Jharkhand,Kochi,SRM University,CIVIL,9.94,"Data Analysis, Flask, Machine Learning, Node.js, HTML, Cloud",1,1,Oracle SQL,Non-Metro City
+8,Aarav Banerjee,22,Other,OBC,N,11455,Kerala,Kolkata,IIT Bombay,IT,5.01,"DevOps, HTML, CSS, Flask, C++, JavaScript",0,4,Oracle SQL,Metropolitan City
+9,Kunal Iyer,18,Other,ST,Y,143514,Gujarat,Mumbai,Delhi University,ECE,7.15,"Machine Learning, React, Data Analysis, Python, Cloud",0,1,AWS Certified,Metropolitan City
+10,Rahul Verma,18,Female,OBC,Y,149904,Uttar Pradesh,Chandigarh,SRM University,IT,6.22,"Cloud, C++, Node.js, Java",3,3,Oracle SQL,Non-Metro City
+11,Deepak Jain,22,Male,OBC,Y,43968,Chhattisgarh,Patna,NIT Trichy,MECH,9.32,"Node.js, CSS, SQL",3,4,Oracle SQL,Non-Metro City
+12,Rahul Bhat,24,Male,OBC,Y,149808,Jharkhand,Kolkata,NIT Trichy,ECE,7.52,"HTML, SQL, Machine Learning, Node.js",3,4,AWS Certified,Metropolitan City
+13,Aarav Banerjee,23,Female,OBC,N,51510,Kerala,Chandigarh,Banaras Hindu University,IT,7.34,"Cloud, Java, DevOps, Machine Learning, HTML",3,4,GCP Certified,Non-Metro City
+14,Siddharth Agarwal,25,Female,OBC,Y,21586,Kerala,Chennai,NIT Warangal,EEE,5.39,"React, Machine Learning, SQL",2,3,Azure Fundamentals,Metropolitan City
+15,Manish Kulkarni,22,Female,OBC,N,86842,Chhattisgarh,Pune,Anna University,CSE,6.77,"C++, Machine Learning, Python",0,3,GCP Certified,Metropolitan City
+16,Krishna Mishra,20,Other,OBC,N,34907,Andhra Pradesh,Jaipur,NIT Warangal,ECE,8.96,"Machine Learning, Data Analysis, Node.js, Java, SQL",2,1,GCP Certified,Non-Metro City
+17,Rohan Banerjee,24,Other,SC,Y,136573,Kerala,Jaipur,Symbiosis Pune,MECH,9.12,"HTML, Flask, CSS, DevOps",2,1,Oracle SQL,Non-Metro City
+18,Amit Mehta,23,Male,SC,Y,10620,Chhattisgarh,Kolkata,Amity University,IT,6.42,"Machine Learning, DevOps, SQL, Java",0,2,None,Metropolitan City
+19,Rohan Mehta,18,Female,SC,Y,121553,Uttar Pradesh,Kolkata,IIT Delhi,CSE,5.43,"HTML, Python, CSS",0,3,Azure Fundamentals,Metropolitan City
+20,Vihaan Chatterjee,25,Other,OBC,N,91012,Chhattisgarh,Patna,Anna University,IT,6.68,"DevOps, JavaScript, Cloud, React, Machine Learning, HTML",2,5,None,Non-Metro City
+21,Aakash Dubey,23,Other,EWS,Y,98088,Kerala,Patna,Symbiosis Pune,ECE,7.17,"Java, Python, CSS, Machine Learning",3,3,Azure Fundamentals,Non-Metro City
+22,Deepak Reddy,18,Male,OBC,N,124902,Madhya Pradesh,Bengaluru,NIT Warangal,CSE,8.97,"DevOps, SQL, Cloud, CSS, React",3,4,Azure Fundamentals,Metropolitan City
+23,Aarav Das,24,Other,OBC,N,101386,Goa,Lucknow,Christ University,CSE,8.96,"Cloud, Flask, Django, Machine Learning, Java",0,3,GCP Certified,Non-Metro City
+24,Aditya Yadav,22,Female,EWS,N,44340,Karnataka,Mysuru,Banaras Hindu University,CIVIL,8.11,"Machine Learning, C++, Flask, Django",2,4,Azure Fundamentals,Non-Metro City
+25,Varun Kulkarni,18,Male,OBC,Y,44039,Delhi,Nagpur,Christ University,CSE,7.88,"Java, C++, Python, CSS",1,1,GCP Certified,Non-Metro City
+26,Rohan Yadav,22,Female,OBC,N,50041,Uttar Pradesh,Pune,BITS Pilani,ECE,8.77,"C++, SQL, Cloud, Data Analysis, CSS, Django",0,1,None,Metropolitan City
+27,Ishaan Tripathi,18,Male,ST,Y,120046,West Bengal,Bhopal,JNTU Hyderabad,ECE,9.6,"Java, Django, Data Analysis",1,4,Azure Fundamentals,Non-Metro City
+28,Sai Deshmukh,24,Other,General,Y,82336,Jharkhand,Lucknow,IIT Bombay,CIVIL,5.3,"C++, Django, Java, React",1,3,AWS Certified,Non-Metro City
+29,Deepak Dubey,20,Male,SC,Y,78789,Haryana,Jaipur,SRM University,IT,8.6,"Flask, DevOps, JavaScript, HTML, React",2,3,None,Non-Metro City
+30,Raviteja Jain,24,Male,General,Y,123445,Rajasthan,Chennai,BITS Pilani,EEE,8.38,"Cloud, Data Analysis, CSS, Python, SQL",1,3,None,Metropolitan City
+31,Krishna Das,24,Other,OBC,N,46364,Madhya Pradesh,Patna,Delhi University,MECH,6.62,"DevOps, Django, Node.js, Machine Learning, JavaScript",1,3,None,Non-Metro City
+32,Pranav Deshmukh,19,Female,OBC,Y,135050,Andhra Pradesh,Visakhapatnam,IIT Kanpur,CIVIL,8.95,"React, Python, SQL, JavaScript, Django",3,2,Azure Fundamentals,Non-Metro City
+33,Vikram Pillai,21,Female,General,N,62724,Jharkhand,Pune,IIT Bombay,CIVIL,8.55,"Data Analysis, HTML, Python",0,5,GCP Certified,Metropolitan City
+34,Aarav Verma,22,Male,OBC,N,69676,Bihar,Nagpur,NIT Warangal,IT,6.71,"DevOps, Machine Learning, Java, Node.js",1,4,RedHat,Non-Metro City
+35,Deepak Verma,23,Male,OBC,N,56454,Telangana,Mumbai,Amity University,CSE,6.83,"Django, Python, JavaScript, SQL",2,5,GCP Certified,Metropolitan City
+36,Krishna Bhat,25,Female,SC,N,56722,Haryana,Ahmedabad,BITS Pilani,IT,9.68,"Node.js, Flask, React, Python, HTML, CSS",1,2,Azure Fundamentals,Metropolitan City
+37,Ishaan Shetty,18,Male,SC,N,53756,Kerala,Pune,Christ University,CIVIL,6.33,"Flask, Django, CSS, SQL, JavaScript, Java",0,1,None,Metropolitan City
+38,Deepak Das,25,Other,SC,N,11490,Delhi,Visakhapatnam,Banaras Hindu University,ECE,8.24,"Data Analysis, JavaScript, C++, HTML",0,3,Azure Fundamentals,Non-Metro City
+39,Manish Chatterjee,18,Female,General,N,41825,Andhra Pradesh,Visakhapatnam,JNTU Hyderabad,CSE,5.36,"Django, Flask, Java",0,4,Azure Fundamentals,Non-Metro City
+40,Rohan Rao,22,Male,OBC,N,19657,Telangana,Pune,NIT Warangal,CIVIL,6.85,"HTML, JavaScript, Java, DevOps, Python",0,5,None,Metropolitan City
+41,Suresh Verma,21,Male,OBC,N,79797,Rajasthan,Jaipur,VIT Vellore,CIVIL,7.84,"HTML, Python, Data Analysis, DevOps",0,1,AWS Certified,Non-Metro City
+42,Siddharth Agarwal,19,Female,ST,N,27740,Jharkhand,Jaipur,NIT Trichy,CSE,6.15,"CSS, SQL, Machine Learning, Flask, DevOps, Java",1,4,RedHat,Non-Metro City
+43,Rohan Nair,23,Other,EWS,N,132430,Punjab,Bhopal,NIT Warangal,EEE,7.62,"CSS, SQL, Node.js",3,3,AWS Certified,Non-Metro City
+44,Suresh Agarwal,19,Other,OBC,Y,44453,Gujarat,Jaipur,Symbiosis Pune,CIVIL,6.95,"HTML, JavaScript, Node.js, SQL, C++",3,2,None,Non-Metro City
+45,Deepak Mukherjee,18,Other,SC,Y,114121,Jharkhand,Mumbai,Delhi University,IT,6.85,"Django, Node.js, C++, HTML, Java, SQL",0,4,AWS Certified,Metropolitan City
+46,Rajesh Verma,25,Female,OBC,N,29416,Assam,Chandigarh,Amity University,MECH,8.53,"DevOps, Java, Data Analysis, JavaScript",0,5,Oracle SQL,Non-Metro City
+47,Harsh Jain,22,Female,OBC,Y,108612,Telangana,Nagpur,NIT Warangal,EEE,7.85,"Data Analysis, Java, Flask",3,2,Azure Fundamentals,Non-Metro City
+48,Rahul Banerjee,20,Other,General,Y,138021,Madhya Pradesh,Chandigarh,VIT Vellore,MECH,5.56,"CSS, React, C++",3,3,None,Non-Metro City
+49,Deepak Bhat,25,Male,General,Y,107203,Maharashtra,Chandigarh,Anna University,CSE,8.81,"Django, JavaScript, DevOps, SQL",2,4,RedHat,Non-Metro City
+50,Varun Sharma,21,Female,General,N,133507,Punjab,Visakhapatnam,VIT Vellore,MECH,9.12,"C++, Django, Node.js, DevOps",0,4,Azure Fundamentals,Non-Metro City
+51,Suresh Bhat,24,Other,OBC,Y,93234,Tamil Nadu,Nagpur,VIT Vellore,IT,9.74,"CSS, React, JavaScript",2,1,RedHat,Non-Metro City
+52,Siddharth Naidu,25,Male,EWS,N,32988,Assam,Kolkata,Delhi University,IT,6.83,"Node.js, SQL, C++",3,4,RedHat,Metropolitan City
+53,Aditya Verma,19,Other,OBC,Y,16829,West Bengal,Chennai,IIT Kharagpur,CSE,9.57,"Node.js, C++, Cloud, Python, SQL",1,5,Azure Fundamentals,Metropolitan City
+54,Vamsi Gowda,24,Other,SC,N,147430,Andhra Pradesh,Nagpur,SRM University,EEE,8.93,"HTML, C++, Node.js, Machine Learning, Python",1,1,GCP Certified,Non-Metro City
+55,Aakash Chatterjee,22,Female,OBC,N,112993,Madhya Pradesh,Mumbai,JNTU Hyderabad,IT,8.71,"JavaScript, Flask, Django, CSS, C++",0,5,RedHat,Metropolitan City
+56,Aakash Dubey,22,Male,SC,Y,121863,Assam,Kochi,IIT Kanpur,CSE,7.33,"SQL, Machine Learning, Python, JavaScript, Flask, Cloud",0,2,Oracle SQL,Non-Metro City
+57,Raviteja Bhat,19,Other,OBC,Y,89222,Karnataka,Patna,BITS Pilani,CIVIL,9.03,"Machine Learning, Node.js, C++, Django, JavaScript",2,3,RedHat,Non-Metro City
+58,Aarav Bhat,18,Male,OBC,N,125999,Kerala,Mysuru,NIT Warangal,CSE,8.65,"Cloud, SQL, Flask, Java",0,5,None,Non-Metro City
+59,Ishaan Nair,25,Other,SC,N,32934,Assam,Jaipur,Osmania University,ECE,8.34,"CSS, Machine Learning, Python, Django",2,3,GCP Certified,Non-Metro City
+60,Suresh Rao,18,Male,OBC,N,140955,Rajasthan,Pune,Anna University,CSE,5.5,"C++, Django, CSS, Flask, SQL, Data Analysis",0,4,Azure Fundamentals,Metropolitan City
+61,Siddharth Pillai,20,Male,OBC,N,97577,Madhya Pradesh,Ahmedabad,IIT Bombay,IT,7.33,"CSS, SQL, Machine Learning",0,3,RedHat,Metropolitan City
+62,Ankit Patel,20,Male,SC,N,123445,Jharkhand,Jaipur,Delhi University,CIVIL,7.22,"Machine Learning, DevOps, CSS, Django",3,4,None,Non-Metro City
+63,Krishna Pillai,25,Male,SC,N,20792,Andhra Pradesh,Patna,IIT Delhi,MECH,6.42,"Java, DevOps, HTML, JavaScript",1,2,AWS Certified,Non-Metro City
+64,Gaurav Mehta,21,Male,SC,Y,98790,Chhattisgarh,Nagpur,Symbiosis Pune,MECH,6.57,"Node.js, React, DevOps",2,3,AWS Certified,Non-Metro City
+65,Manish Bhat,20,Female,EWS,Y,33718,Gujarat,Patna,Delhi University,MECH,9.11,"SQL, Flask, DevOps, JavaScript",0,4,RedHat,Non-Metro City
+66,Abhinav Verma,19,Other,OBC,Y,15760,Karnataka,Mysuru,VIT Vellore,CIVIL,9.35,"Flask, Python, SQL, Django, HTML, Cloud",2,5,Oracle SQL,Non-Metro City
+67,Rohan Pillai,22,Male,General,Y,141966,Karnataka,Bengaluru,SRM University,EEE,7.96,"CSS, Java, React, Data Analysis, SQL",1,3,GCP Certified,Metropolitan City
+68,Manish Yadav,20,Other,EWS,N,73296,West Bengal,Hyderabad,Christ University,MECH,9.1,"Flask, Python, Data Analysis, HTML",2,4,AWS Certified,Metropolitan City
+69,Pranav Chowdhury,21,Other,OBC,Y,143081,Jharkhand,Patna,IIT Delhi,CIVIL,5.17,"DevOps, Node.js, React, C++",0,2,Azure Fundamentals,Non-Metro City
+70,Varun Yadav,19,Female,General,Y,65169,Kerala,Bengaluru,IIT Delhi,CIVIL,5.12,"C++, Node.js, Java, Cloud, Data Analysis",1,5,Oracle SQL,Metropolitan City
+71,Amit Deshmukh,23,Female,OBC,N,74033,Madhya Pradesh,Lucknow,IIT Bombay,CSE,9.31,"C++, Flask, Java, React",0,4,Oracle SQL,Non-Metro City
+72,Vikram Naidu,22,Other,OBC,N,31994,Goa,Mysuru,IIT Kanpur,CIVIL,9.57,"CSS, Data Analysis, SQL, JavaScript",3,5,RedHat,Non-Metro City
+73,Abhinav Mishra,25,Other,OBC,Y,144885,Haryana,Bhopal,Anna University,IT,5.59,"DevOps, CSS, C++, Django, Data Analysis, React",1,3,Azure Fundamentals,Non-Metro City
+74,Vihaan Tripathi,18,Other,General,Y,34988,Delhi,Lucknow,IIT Madras,CIVIL,6.91,"Flask, Python, DevOps",3,3,GCP Certified,Non-Metro City
+75,Rajesh Singh,25,Female,SC,N,146511,Delhi,Kolkata,IIT Bombay,IT,5.14,"Data Analysis, C++, CSS, React",0,4,AWS Certified,Metropolitan City
+76,Manish Verma,23,Male,General,N,83867,West Bengal,Visakhapatnam,IIT Kanpur,EEE,6.67,"SQL, Cloud, Machine Learning",3,1,RedHat,Non-Metro City
+77,Vihaan Mukherjee,24,Other,OBC,Y,103576,Bihar,Visakhapatnam,IIT Madras,ECE,7.03,"Django, SQL, JavaScript, C++, Flask",3,5,Azure Fundamentals,Non-Metro City
+78,Raviteja Das,18,Male,General,Y,77639,Bihar,Patna,IIT Kharagpur,ECE,7.62,"HTML, C++, Node.js, JavaScript, Python",2,5,AWS Certified,Non-Metro City
+79,Sai Nair,19,Other,OBC,N,23383,Odisha,Jaipur,BITS Pilani,CSE,6.58,"SQL, CSS, Data Analysis, C++",1,1,Oracle SQL,Non-Metro City
+80,Varun Chatterjee,21,Other,EWS,N,23180,Telangana,Kochi,IIT Kharagpur,MECH,6.72,"C++, JavaScript, Node.js, DevOps, Python",1,3,RedHat,Non-Metro City
+81,Sai Mukherjee,24,Male,OBC,Y,148359,West Bengal,Chandigarh,NIT Trichy,IT,5.92,"Machine Learning, Java, Cloud, Data Analysis, React, Django",3,4,None,Non-Metro City
+82,Aakash Gowda,18,Other,General,N,92846,Andhra Pradesh,Kolkata,Banaras Hindu University,CSE,8.54,"Data Analysis, Python, HTML, C++",0,1,Oracle SQL,Metropolitan City
+83,Siddharth Gupta,20,Female,SC,Y,105140,Rajasthan,Kolkata,Delhi University,CSE,6.82,"Flask, Java, Cloud",1,1,None,Metropolitan City
+84,Aakash Chatterjee,24,Other,OBC,N,114274,Rajasthan,Lucknow,IIT Kharagpur,IT,8.68,"Machine Learning, HTML, React, Django, Python",3,1,None,Non-Metro City
+85,Vihaan Chowdhury,23,Female,OBC,Y,48520,Maharashtra,Hyderabad,IIT Madras,EEE,8.52,"JavaScript, Cloud, Django, Flask, C++, Java",1,2,None,Metropolitan City
+86,Pranav Mishra,21,Female,OBC,N,92645,Haryana,Bhopal,Anna University,CSE,8.54,"Node.js, HTML, DevOps",0,3,None,Non-Metro City
+87,Harsh Banerjee,18,Other,General,Y,89027,Assam,Pune,IIT Kanpur,EEE,6.17,"Data Analysis, DevOps, Machine Learning, Python, Cloud, JavaScript",1,5,Oracle SQL,Metropolitan City
+88,Suresh Chatterjee,18,Female,OBC,N,98281,Bihar,Hyderabad,IIT Kharagpur,MECH,8.07,"SQL, Node.js, Django, C++, Machine Learning",1,1,RedHat,Metropolitan City
+89,Arjun Chatterjee,23,Other,General,Y,144163,Rajasthan,Mumbai,Christ University,MECH,9.1,"HTML, CSS, Node.js",0,3,GCP Certified,Metropolitan City
+90,Siddharth Reddy,23,Other,General,Y,117417,Punjab,Jaipur,Banaras Hindu University,CSE,9.75,"DevOps, Node.js, Machine Learning, Java",3,5,Oracle SQL,Non-Metro City
+91,Amit Bhat,23,Female,General,N,105339,Karnataka,Chandigarh,IIT Kanpur,EEE,7.96,"DevOps, Node.js, Data Analysis, Java",1,3,Azure Fundamentals,Non-Metro City
+92,Suresh Das,19,Male,General,Y,130977,Tamil Nadu,Chennai,Banaras Hindu University,CSE,7.08,"SQL, Java, Python, Cloud, Machine Learning, Data Analysis",3,4,GCP Certified,Metropolitan City
+93,Amit Gowda,18,Female,EWS,N,12238,Gujarat,Chennai,IIT Bombay,CIVIL,7.89,"Machine Learning, React, Python, HTML",2,3,Azure Fundamentals,Metropolitan City
+94,Rohan Nair,21,Female,General,Y,102335,Uttar Pradesh,Mysuru,IIT Kanpur,CIVIL,6.61,"Machine Learning, Cloud, Django, HTML, JavaScript",2,1,RedHat,Non-Metro City
+95,Sai Chowdhury,21,Other,OBC,N,72568,Goa,Hyderabad,Symbiosis Pune,ECE,5.62,"Python, C++, SQL",2,1,None,Metropolitan City
+96,Sai Menon,25,Male,ST,Y,27733,Gujarat,Patna,Amity University,CSE,8.57,"Java, Cloud, DevOps",2,5,Oracle SQL,Non-Metro City
+97,Vihaan Banerjee,21,Male,SC,Y,73929,Madhya Pradesh,Patna,Anna University,EEE,6.91,"Flask, JavaScript, SQL, Node.js, C++",3,3,AWS Certified,Non-Metro City
+98,Karthik Reddy,19,Male,SC,N,65863,Kerala,Ahmedabad,SRM University,EEE,8.11,"JavaScript, C++, HTML",2,5,RedHat,Metropolitan City
+99,Arjun Patel,22,Male,OBC,Y,42699,Assam,Lucknow,Amity University,CIVIL,8.94,"Cloud, HTML, JavaScript, C++, Machine Learning",3,4,Oracle SQL,Non-Metro City
+100,Deepak Yadav,19,Male,General,N,119186,Madhya Pradesh,Nagpur,Delhi University,ECE,8.24,"Django, Cloud, Java, CSS, Data Analysis, SQL",3,4,RedHat,Non-Metro City
+101,Kunal Jain,20,Male,General,Y,130223,Odisha,Bhopal,NIT Trichy,ECE,8.3,"DevOps, Flask, React, C++, CSS",3,2,RedHat,Non-Metro City
+102,Gaurav Mehta,18,Female,OBC,Y,28108,Maharashtra,Lucknow,Christ University,CSE,6.74,"Flask, Python, Machine Learning, C++",3,4,AWS Certified,Non-Metro City
+103,Krishna Sharma,23,Other,EWS,Y,122590,Tamil Nadu,Pune,Symbiosis Pune,EEE,9.75,"Node.js, Machine Learning, Python, C++, CSS",0,4,RedHat,Metropolitan City
+104,Manish Banerjee,24,Male,OBC,N,117053,Delhi,Nagpur,IIT Delhi,IT,5.82,"SQL, C++, CSS, HTML, Python",0,2,AWS Certified,Non-Metro City
+105,Karthik Tripathi,24,Other,SC,N,56866,Haryana,Chandigarh,Osmania University,ECE,6.13,"DevOps, JavaScript, Python, HTML, Machine Learning",1,2,Azure Fundamentals,Non-Metro City
+106,Aditya Naidu,21,Other,OBC,Y,129245,Karnataka,Patna,BITS Pilani,EEE,8.07,"Python, Node.js, Django, HTML",2,2,Azure Fundamentals,Non-Metro City
+107,Amit Yadav,24,Female,OBC,N,96907,Jharkhand,Kochi,NIT Trichy,EEE,9.24,"CSS, HTML, Java, Flask, Data Analysis, Node.js",1,5,Oracle SQL,Non-Metro City
+108,Kunal Kulkarni,18,Other,OBC,N,93042,Kerala,Bengaluru,Osmania University,EEE,7.68,"HTML, Node.js, Machine Learning, C++",2,4,AWS Certified,Metropolitan City
+109,Vihaan Yadav,25,Male,OBC,N,61971,Madhya Pradesh,Hyderabad,Delhi University,ECE,5.15,"SQL, Data Analysis, Flask, React, Django, Cloud",2,5,Azure Fundamentals,Metropolitan City
+110,Krishna Tripathi,24,Female,OBC,Y,137541,Chhattisgarh,Bengaluru,Banaras Hindu University,IT,6.13,"DevOps, HTML, Machine Learning, SQL, JavaScript",0,2,RedHat,Metropolitan City
+111,Vamsi Pillai,21,Female,General,Y,57715,Delhi,Nagpur,VIT Vellore,ECE,7.25,"CSS, Machine Learning, SQL, C++",1,3,GCP Certified,Non-Metro City
+112,Varun Menon,25,Female,OBC,N,37891,Delhi,Mysuru,Christ University,EEE,5.46,"CSS, Java, SQL",2,2,Azure Fundamentals,Non-Metro City
+113,Vihaan Naidu,19,Male,EWS,Y,51897,Maharashtra,Mumbai,Anna University,CIVIL,7.43,"Data Analysis, DevOps, HTML, Flask",3,2,Azure Fundamentals,Metropolitan City
+114,Harsh Bhat,20,Female,EWS,N,89299,Bihar,Chandigarh,Amity University,CIVIL,5.02,"Data Analysis, Node.js, Django",2,1,RedHat,Non-Metro City
+115,Varun Mukherjee,24,Other,OBC,Y,144252,Goa,Chandigarh,IIT Delhi,EEE,8.25,"C++, JavaScript, DevOps, Machine Learning, Java, SQL",0,3,None,Non-Metro City
+116,Aarav Reddy,23,Other,EWS,Y,134159,Gujarat,Bengaluru,IIT Madras,CSE,9.24,"Java, SQL, Django",3,5,RedHat,Metropolitan City
+117,Deepak Mehta,23,Female,SC,N,76254,Andhra Pradesh,Kochi,IIT Kharagpur,IT,8.89,"Node.js, JavaScript, C++, Python",1,4,Oracle SQL,Non-Metro City
+118,Pranav Nair,18,Male,SC,Y,132612,Rajasthan,Patna,NIT Trichy,ECE,6.35,"C++, CSS, HTML, Django, DevOps",2,4,Oracle SQL,Non-Metro City
+119,Kunal Menon,24,Other,General,Y,101415,Karnataka,Nagpur,SRM University,CSE,9.13,"Data Analysis, CSS, Django",3,3,Oracle SQL,Non-Metro City
+120,Aarav Patel,24,Female,General,Y,96867,Gujarat,Mysuru,IIT Kharagpur,MECH,6.12,"Django, HTML, Python, SQL",2,2,None,Non-Metro City
+121,Deepak Reddy,18,Female,General,N,112796,Karnataka,Hyderabad,SRM University,MECH,6.83,"HTML, Python, SQL, C++, Node.js",0,1,RedHat,Metropolitan City
+122,Pranav Yadav,19,Male,General,N,111235,Goa,Mumbai,IIT Madras,EEE,8.5,"SQL, C++, Java, DevOps",0,1,RedHat,Metropolitan City
+123,Pranav Kulkarni,20,Male,OBC,Y,120080,Odisha,Chennai,IIT Kanpur,CIVIL,7.39,"Machine Learning, SQL, CSS, Cloud, Data Analysis, DevOps",3,2,Oracle SQL,Metropolitan City
+124,Rajesh Tripathi,24,Male,OBC,Y,62526,Gujarat,Mumbai,IIT Madras,CIVIL,7.94,"React, C++, DevOps, HTML, SQL, Django",1,1,Oracle SQL,Metropolitan City
+125,Rahul Chowdhury,23,Female,General,Y,25627,Telangana,Mumbai,Symbiosis Pune,CIVIL,6.32,"HTML, Machine Learning, CSS",2,2,None,Metropolitan City
+126,Raviteja Nair,21,Female,ST,N,115290,Haryana,Patna,Banaras Hindu University,CSE,6.21,"Java, C++, Python, HTML, Flask",2,4,Azure Fundamentals,Non-Metro City
+127,Suresh Nair,23,Female,ST,N,135400,Chhattisgarh,Jaipur,Delhi University,ECE,7.81,"CSS, Flask, React, HTML, Django, Cloud",0,2,AWS Certified,Non-Metro City
+128,Nikhil Pillai,21,Male,OBC,N,119773,Jharkhand,Patna,Christ University,CIVIL,6.18,"HTML, JavaScript, Machine Learning, Flask",1,4,Oracle SQL,Non-Metro City
+129,Varun Patel,24,Female,EWS,N,90676,Gujarat,Jaipur,IIT Kharagpur,EEE,7.38,"Java, DevOps, CSS, SQL",0,2,Azure Fundamentals,Non-Metro City
+130,Manish Naidu,21,Male,General,Y,114646,Odisha,Jaipur,Christ University,MECH,9.16,"C++, Python, Flask, Django, DevOps",0,3,RedHat,Non-Metro City
+131,Rohan Dubey,18,Male,General,Y,91802,Maharashtra,Mumbai,Banaras Hindu University,CIVIL,8.33,"Django, Python, HTML, Node.js",3,1,GCP Certified,Metropolitan City
+132,Vihaan Singh,19,Male,OBC,N,45720,Tamil Nadu,Lucknow,NIT Warangal,MECH,6.86,"Django, Python, Node.js",3,5,Oracle SQL,Non-Metro City
+133,Amit Menon,22,Female,EWS,N,37490,Gujarat,Jaipur,VIT Vellore,ECE,6.85,"React, SQL, Cloud, JavaScript, DevOps, Machine Learning",3,4,RedHat,Non-Metro City
+134,Siddharth Rao,25,Male,ST,N,107348,Bihar,Ahmedabad,BITS Pilani,ECE,7.28,"SQL, DevOps, Machine Learning, React, CSS",1,2,AWS Certified,Metropolitan City
+135,Manish Gupta,21,Female,General,Y,47324,Uttar Pradesh,Jaipur,Symbiosis Pune,IT,9.65,"CSS, Java, Cloud, Python",0,3,RedHat,Non-Metro City
+136,Aarav Singh,23,Other,OBC,Y,54767,Punjab,Kochi,Christ University,MECH,6.39,"Java, Machine Learning, Python, SQL, Cloud",0,4,GCP Certified,Non-Metro City
+137,Harsh Pillai,24,Other,SC,Y,53848,West Bengal,Kochi,VIT Vellore,CSE,7.3,"Machine Learning, React, HTML, Django, C++",1,5,Oracle SQL,Non-Metro City
+138,Ankit Rao,22,Male,General,Y,146318,Madhya Pradesh,Lucknow,Anna University,ECE,6.45,"Node.js, Python, Cloud",1,4,GCP Certified,Non-Metro City
+139,Aarav Mishra,24,Other,SC,N,119578,West Bengal,Lucknow,JNTU Hyderabad,CSE,5.17,"React, Data Analysis, JavaScript",1,2,RedHat,Non-Metro City
+140,Nikhil Jain,22,Male,SC,Y,137483,Rajasthan,Visakhapatnam,Osmania University,CIVIL,8.64,"HTML, Cloud, Java, React, Node.js, SQL",2,2,None,Non-Metro City
+141,Rahul Chowdhury,25,Male,General,Y,20377,Tamil Nadu,Mysuru,NIT Trichy,CIVIL,7.0,"Cloud, Java, JavaScript",2,4,Azure Fundamentals,Non-Metro City
+142,Harsh Gowda,24,Other,General,N,123482,Uttar Pradesh,Patna,IIT Kharagpur,MECH,7.75,"Node.js, C++, Python, Django, CSS, Java",0,1,None,Non-Metro City
+143,Rahul Bhat,18,Male,ST,N,36106,Delhi,Bengaluru,IIT Bombay,CIVIL,5.64,"C++, HTML, SQL, DevOps, React, CSS",1,3,AWS Certified,Metropolitan City
+144,Amit Chowdhury,24,Other,OBC,N,109409,Delhi,Hyderabad,Symbiosis Pune,CIVIL,6.44,"C++, DevOps, Cloud",1,5,AWS Certified,Metropolitan City
+145,Rohan Sharma,18,Other,General,N,81706,Tamil Nadu,Kochi,Amity University,MECH,7.32,"CSS, Data Analysis, SQL, Cloud",0,5,Oracle SQL,Non-Metro City
+146,Rahul Shetty,23,Male,OBC,N,41325,Kerala,Ahmedabad,IIT Kanpur,MECH,5.04,"HTML, SQL, Java",2,2,GCP Certified,Metropolitan City
+147,Karthik Patel,20,Other,SC,Y,58717,Bihar,Hyderabad,IIT Delhi,EEE,7.39,"React, SQL, Django, Java, Data Analysis, JavaScript",2,1,GCP Certified,Metropolitan City
+148,Rahul Pillai,19,Other,EWS,N,82326,Tamil Nadu,Mysuru,Christ University,ECE,8.12,"Data Analysis, Flask, Cloud, SQL",1,5,GCP Certified,Non-Metro City
+149,Rahul Kulkarni,21,Male,OBC,Y,129234,Assam,Patna,IIT Bombay,IT,7.91,"Data Analysis, SQL, Flask, Python",3,3,GCP Certified,Non-Metro City
+150,Siddharth Rao,21,Female,SC,Y,11457,Uttar Pradesh,Lucknow,Symbiosis Pune,CSE,8.34,"C++, HTML, SQL",3,3,AWS Certified,Non-Metro City
+151,Pranav Mishra,20,Other,SC,N,109252,Telangana,Bhopal,Christ University,ECE,9.19,"DevOps, Data Analysis, Python, SQL, Flask",1,2,None,Non-Metro City
+152,Harsh Tripathi,23,Other,SC,N,38366,Uttar Pradesh,Visakhapatnam,Symbiosis Pune,CSE,9.84,"Node.js, Machine Learning, DevOps, Java, Python",0,3,AWS Certified,Non-Metro City
+153,Deepak Sharma,21,Female,General,N,54180,Jharkhand,Hyderabad,Amity University,IT,6.57,"Flask, DevOps, JavaScript, React",2,4,None,Metropolitan City
+154,Abhinav Menon,20,Male,SC,Y,119667,Bihar,Chandigarh,VIT Vellore,MECH,6.41,"DevOps, Data Analysis, JavaScript, Java",1,3,RedHat,Non-Metro City
+155,Kunal Nair,18,Female,OBC,N,32089,Jharkhand,Visakhapatnam,NIT Trichy,MECH,9.99,"React, HTML, Cloud, Java, Node.js, Python",2,2,AWS Certified,Non-Metro City
+156,Sai Mishra,22,Male,OBC,N,27658,Jharkhand,Nagpur,Osmania University,IT,7.76,"CSS, Python, Cloud",0,1,AWS Certified,Non-Metro City
+157,Abhinav Gupta,24,Other,General,Y,88990,Odisha,Bhopal,IIT Madras,CIVIL,5.92,"DevOps, Machine Learning, Cloud, Node.js, SQL, JavaScript",1,2,None,Non-Metro City
+158,Gaurav Naidu,25,Female,EWS,Y,60558,Maharashtra,Chennai,IIT Delhi,CIVIL,5.98,"JavaScript, DevOps, Django, Data Analysis, HTML",2,2,Azure Fundamentals,Metropolitan City
+159,Abhinav Tripathi,18,Female,General,Y,94684,Assam,Jaipur,IIT Kanpur,IT,8.87,"Cloud, SQL, Machine Learning, Flask, CSS",3,4,Azure Fundamentals,Non-Metro City
+160,Aakash Pillai,19,Male,OBC,N,95464,Karnataka,Mumbai,IIT Madras,CSE,9.71,"Node.js, CSS, DevOps, Machine Learning",0,4,GCP Certified,Metropolitan City
+161,Vamsi Nair,20,Other,General,N,30773,Tamil Nadu,Visakhapatnam,JNTU Hyderabad,IT,9.43,"Flask, Cloud, Python, Machine Learning, HTML, C++",3,4,Oracle SQL,Non-Metro City
+162,Rahul Rao,23,Other,ST,Y,99562,Odisha,Lucknow,IIT Madras,IT,7.54,"JavaScript, Cloud, DevOps, Machine Learning, CSS",1,5,GCP Certified,Non-Metro City
+163,Aakash Pillai,23,Other,OBC,Y,90421,Madhya Pradesh,Bengaluru,Symbiosis Pune,CSE,5.23,"React, Python, Flask, Machine Learning, CSS",2,2,RedHat,Metropolitan City
+164,Sai Naidu,20,Female,SC,N,44078,Kerala,Bhopal,Anna University,CSE,6.54,"Flask, Node.js, C++, Machine Learning",2,3,GCP Certified,Non-Metro City
+165,Varun Mukherjee,25,Female,General,Y,129619,Kerala,Hyderabad,IIT Delhi,CIVIL,7.43,"Java, DevOps, Machine Learning, CSS, Flask, Python",0,3,Oracle SQL,Metropolitan City
+166,Aarav Singh,24,Female,General,Y,132310,Bihar,Patna,Amity University,CSE,6.9,"Django, DevOps, SQL, Node.js, Flask, Java",1,5,AWS Certified,Non-Metro City
+167,Suresh Mishra,22,Male,ST,Y,133825,Gujarat,Visakhapatnam,JNTU Hyderabad,CSE,7.7,"JavaScript, DevOps, Node.js, Flask",3,2,Azure Fundamentals,Non-Metro City
+168,Abhinav Mishra,23,Female,OBC,N,32309,Jharkhand,Kolkata,Delhi University,EEE,8.58,"Python, Node.js, DevOps",3,2,AWS Certified,Metropolitan City
+169,Rajesh Patel,20,Female,General,Y,91987,Assam,Kolkata,IIT Bombay,CSE,6.97,"C++, React, Data Analysis",3,5,None,Metropolitan City
+170,Aditya Chatterjee,22,Female,OBC,N,37796,Madhya Pradesh,Patna,Delhi University,IT,6.05,"Java, DevOps, SQL",3,5,RedHat,Non-Metro City
+171,Sai Rao,22,Male,OBC,Y,28402,Delhi,Bengaluru,Christ University,EEE,5.94,"Python, HTML, Data Analysis, Django, DevOps",3,3,Oracle SQL,Metropolitan City
+172,Kunal Jain,18,Male,General,Y,62787,Jharkhand,Chennai,NIT Warangal,CSE,8.5,"SQL, Node.js, Flask, Cloud, Python, Java",3,5,None,Metropolitan City
+173,Kunal Pillai,21,Other,General,N,50625,Telangana,Kolkata,VIT Vellore,CSE,5.43,"HTML, Node.js, Machine Learning, React",1,3,Oracle SQL,Metropolitan City
+174,Gaurav Mehta,24,Male,OBC,N,58771,Maharashtra,Bhopal,NIT Trichy,CIVIL,7.75,"Node.js, Django, C++",3,1,Oracle SQL,Non-Metro City
+175,Vivaan Menon,24,Other,SC,N,29550,Uttar Pradesh,Chennai,SRM University,EEE,9.82,"Django, JavaScript, React, Data Analysis",2,2,Azure Fundamentals,Metropolitan City
+176,Ishaan Mukherjee,23,Other,OBC,N,31368,Andhra Pradesh,Mumbai,IIT Bombay,MECH,8.33,"DevOps, Java, Node.js",2,1,Azure Fundamentals,Metropolitan City
+177,Nikhil Chatterjee,22,Other,EWS,N,87287,Haryana,Bengaluru,NIT Trichy,IT,7.78,"CSS, Node.js, Flask, HTML, React",2,3,None,Metropolitan City
+178,Abhinav Pillai,25,Female,OBC,N,141041,Assam,Kolkata,Banaras Hindu University,CIVIL,7.12,"Python, Node.js, CSS",3,4,Azure Fundamentals,Metropolitan City
+179,Pranav Gupta,18,Other,OBC,Y,91602,Uttar Pradesh,Chandigarh,Anna University,MECH,6.55,"Machine Learning, DevOps, React",2,3,GCP Certified,Non-Metro City
+180,Ishaan Chowdhury,18,Other,OBC,Y,136169,Goa,Chandigarh,NIT Trichy,CIVIL,7.64,"SQL, Node.js, Flask",3,2,GCP Certified,Non-Metro City
+181,Ishaan Pillai,21,Other,OBC,Y,77898,Haryana,Mysuru,Symbiosis Pune,CIVIL,8.11,"JavaScript, Data Analysis, Cloud, Machine Learning, Django, Java",0,5,Oracle SQL,Non-Metro City
+182,Rajesh Bhat,20,Other,SC,Y,31938,Tamil Nadu,Bengaluru,SRM University,CSE,7.8,"C++, Python, Cloud",2,1,Azure Fundamentals,Metropolitan City
+183,Abhinav Mehta,24,Male,OBC,Y,86238,Kerala,Hyderabad,Banaras Hindu University,CSE,5.68,"Data Analysis, Node.js, SQL",0,4,None,Metropolitan City
+184,Sai Mehta,18,Male,EWS,Y,70634,Jharkhand,Bengaluru,Osmania University,MECH,6.98,"Django, Cloud, React, Node.js, Data Analysis",0,3,GCP Certified,Metropolitan City
+185,Pranav Chowdhury,20,Male,OBC,N,129525,Telangana,Hyderabad,Amity University,CIVIL,6.16,"Flask, Cloud, Java, React, Machine Learning, Node.js",3,1,RedHat,Metropolitan City
+186,Vivaan Jain,19,Other,EWS,Y,83837,Madhya Pradesh,Mumbai,IIT Delhi,IT,9.83,"C++, Machine Learning, SQL",3,1,Oracle SQL,Metropolitan City
+187,Vamsi Kulkarni,21,Other,General,N,59389,Punjab,Bengaluru,JNTU Hyderabad,EEE,8.88,"SQL, Python, Node.js",1,1,GCP Certified,Metropolitan City
+188,Ishaan Naidu,18,Other,OBC,N,94662,Maharashtra,Chandigarh,BITS Pilani,IT,5.68,"Flask, HTML, Cloud, JavaScript",3,5,Oracle SQL,Non-Metro City
+189,Arjun Pillai,18,Other,General,Y,82658,Tamil Nadu,Jaipur,Symbiosis Pune,IT,6.62,"HTML, Node.js, JavaScript, React",2,5,Oracle SQL,Non-Metro City
+190,Rahul Gupta,19,Male,OBC,Y,70459,Madhya Pradesh,Jaipur,JNTU Hyderabad,ECE,9.43,"Cloud, Machine Learning, Django, DevOps",3,4,Azure Fundamentals,Non-Metro City
+191,Aakash Nair,22,Male,OBC,Y,136226,Odisha,Lucknow,Delhi University,MECH,5.13,"SQL, JavaScript, Machine Learning",1,5,Oracle SQL,Non-Metro City
+192,Rajesh Naidu,24,Female,SC,N,56340,Punjab,Mysuru,NIT Trichy,EEE,7.77,"Java, Machine Learning, Flask",0,5,None,Non-Metro City
+193,Amit Das,19,Male,SC,Y,43881,Haryana,Jaipur,Christ University,ECE,7.95,"Java, CSS, Django, JavaScript, Cloud",2,2,Azure Fundamentals,Non-Metro City
+194,Arjun Tripathi,23,Other,General,N,127277,Uttar Pradesh,Jaipur,Osmania University,CIVIL,8.77,"Django, Cloud, CSS, Flask",1,2,RedHat,Non-Metro City
+195,Vivaan Mishra,18,Male,SC,N,124041,Rajasthan,Chandigarh,Amity University,CSE,10.0,"HTML, Data Analysis, Machine Learning, Flask",0,5,None,Non-Metro City
+196,Kunal Rao,22,Male,General,Y,54566,Gujarat,Ahmedabad,Anna University,EEE,5.96,"DevOps, Java, SQL, Cloud, Data Analysis",0,1,AWS Certified,Metropolitan City
+197,Aditya Iyer,19,Male,OBC,N,140787,Andhra Pradesh,Mysuru,IIT Delhi,MECH,6.1,"Django, Machine Learning, DevOps, CSS, JavaScript",1,2,Oracle SQL,Non-Metro City
+198,Rahul Sharma,24,Other,SC,N,80656,Punjab,Chandigarh,JNTU Hyderabad,IT,8.06,"HTML, Data Analysis, JavaScript, React, Flask, DevOps",1,1,AWS Certified,Non-Metro City
+199,Aakash Mishra,24,Female,OBC,Y,86231,Rajasthan,Mumbai,IIT Bombay,CSE,9.97,"CSS, Cloud, Python",0,1,Azure Fundamentals,Metropolitan City
+200,Aditya Singh,22,Male,General,Y,24525,Kerala,Bhopal,Anna University,MECH,6.5,"Node.js, C++, CSS",0,2,Oracle SQL,Non-Metro City
